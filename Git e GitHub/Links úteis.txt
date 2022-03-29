@@ -1,0 +1,10 @@
+* Link para download do GIT - https://git-scm.com/downloads
+ -> Git Bash - é um terminal extendido para otimizar o uso do Git.
+* Link de Comandos do Git Bash - https://comandosgit.github.io/
+
+* Link para download do GitHub Desktop - https://desktop.github.com/
+-> O GitHub Desktop é um aplicativo que permite interação com o 
+GitHub usando uma GUI em vez da linha de comando ou de um 
+navegador web.
+
+**GUI - Graphical User Interface (Interface Gráfica do Usuário)
