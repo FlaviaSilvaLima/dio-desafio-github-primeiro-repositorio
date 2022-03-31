@@ -14,9 +14,11 @@ Tabela Copa do Mundo - *GRUPO B*
 Alemanha | Brasil | França | Grécia
 
 Time   | Jogos
+
+Alemanha | BRasil | França | Grécia 
 ------ | ------
 
-             Alemanha | BRasil | França | Grécia   
+               
 --------------------------------------------------
 Alemanha |      X     |        |        |
 Brasil   |            |    x   |        |
