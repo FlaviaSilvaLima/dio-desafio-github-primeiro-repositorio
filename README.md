@@ -9,6 +9,9 @@ Repositório criado para os Desafios de Projetos
 
 ## Testes de alinhamento com Markdown
 
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
 
 Exemplo   | Valor do exemplo
 --------- | ------
