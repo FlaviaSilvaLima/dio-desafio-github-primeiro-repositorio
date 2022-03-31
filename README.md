@@ -10,7 +10,7 @@ Repositório criado para os Desafios de Projetos
 ## Testes de alinhamento com Markdown
 
 Tabela Copa do Mundo - *GRUPO B*
-:--------- | :------: | -------:
+
 Alemanha | Brasil | França | Grécia
 
 Time   | Jogos
