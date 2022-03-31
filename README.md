@@ -7,8 +7,15 @@ Repositório criado para os Desafios de Projetos
 
 
 
-testes de alinhamento
+## Testes de alinhamento com Markdown
 
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
-Valor | Valor | Valor
+Alemanha | Brasil | Camarões
+
+Tabela   | Valor 
+--------- | ------
+Tomate | R$ 7
+Pepino | R$ 4
+Folhas | R$ 3
+Batata | R$ 5
