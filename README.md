@@ -9,13 +9,16 @@ Repositório criado para os Desafios de Projetos
 
 ## Testes de alinhamento com Markdown
 
-Alinhado a esquerda | Centralizado | Alinhado a direita
+Tabela Copa do Mundo - *GRUPO B*
 :--------- | :------: | -------:
-Alemanha | Brasil | Camarões
+Alemanha | Brasil | França | Grécia
 
-Tabela   | Valor 
---------- | ------
-Tomate | R$ 7
-Pepino | R$ 4
-Folhas | R$ 3
-Batata | R$ 5
+Time   | Jogos
+------ | ------
+
+             Alemanha | BRasil | França | Grécia   
+--------------------------------------------------
+Alemanha |      X     |        |        |
+Brasil   |            |    x   |        |
+França   |            |        |   x    |
+Grécia   |            |        |        |    x
