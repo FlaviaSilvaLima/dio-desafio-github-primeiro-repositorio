@@ -1,0 +1,15 @@
+**Dentro do Git Bash**
+->git clone (link do arquivo GitHub desejado - copiar)
+** SE O ARQUIVO ESTIVER NA MÁQUINA
+-> cd Desktop (se for na área de trabalho)
+ls -> irá listar tudo, então só seguir as informações abaixo
+->git status (ver o que tem dentro do repositório)
+obs: se tiver algo novo, ficará em vermelho
+-> git add . (adiciona todos os arquivos)
+-> git add - A 
+
+-> git commit -M "mensagem / comentário desejado(a) no commit"
+obs: se der um git status ele irá pedir para fazer um push 
+e enviá-lo para a nuvem.
+
+-> git push origin main (enviar o arquivo para o main)

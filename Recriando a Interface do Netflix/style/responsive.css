@@ -1,0 +1,23 @@
+/*Aqui eu estou falando que enquanto minha tela 
+estiver com até 700px de largura, vai aplicar essa 
+regra, e quando não estiver, vai aplicar a regra padrão dele*/
+@media screen and (max-width:700px) {
+
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao {
+        margin-top: 5px;
+        width: 250px;
+    }
+}
+
+/*Aqui eu estou informando que quando a tela estiver no máximo
+vou continuar com a descrição do texto mais alocada, sem deixá-la até o final da tela*/
+@media screen and(min-width: 1000px) {
+    .descricao{
+        width: 50%;
+    }
+}
